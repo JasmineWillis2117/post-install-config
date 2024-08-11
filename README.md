@@ -20,6 +20,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 </p>
 </p>
+<br />
+<br />
 
 
 <h2>Post-Install Configuration Objectives</h2>
@@ -34,27 +36,139 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Help topics
 
 <h2>Configuration Steps</h2>
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+</p>
+</p>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+1. Configure Roles</p>
+-  Admin Panel -> Agents -> Roles</p>
+-  Supreme Admin</p>
 </p>
+<p>
+<img src="https://i.imgur.com/yiTeTlg.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/rLdy674.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/hCIAMna.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/wz0rhN5.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> </p>
+</p>
+</p>
+</p>
+</p>
+</p>
+</p>
+<br />
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+2. Configure Departments</p>
+-  Admin Panel -> Agents -> Departments</p>
+-  System Administrators</p>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/HhcQQmW.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/9y4J6cA.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/AR4YwYM.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p>
 </p>
+</p>
+</p>
+</p>
+</p>
+</p>
+<br />
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+3. Configure Roles</p>
+-  Admin Panel -> Agents -> Roles</p>
+-  Supreme Admin</p>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/yiTeTlg.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/rLdy674.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/hCIAMna.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/wz0rhN5.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> </p>
 </p>
+</p>
+</p>
+</p>
+</p>
+</p>
+<br />
+<br />
+
+
+<p>
+4. Configure Roles</p>
+-  Admin Panel -> Agents -> Roles</p>
+-  Supreme Admin</p>
+</p>
+<p>
+<img src="https://i.imgur.com/yiTeTlg.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/rLdy674.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/hCIAMna.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/wz0rhN5.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> </p>
+</p>
+</p>
+</p>
+</p>
+</p>
+</p>
+<br />
+<br />
+
+
+<p>
+5. Configure Roles</p>
+-  Admin Panel -> Agents -> Roles</p>
+-  Supreme Admin</p>
+</p>
+<p>
+<img src="https://i.imgur.com/yiTeTlg.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/rLdy674.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/hCIAMna.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/wz0rhN5.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> </p>
+</p>
+</p>
+</p>
+</p>
+</p>
+</p>
+<br />
+<br />
+
+
+<p>
+6. Configure Roles</p>
+-  Admin Panel -> Agents -> Roles</p>
+-  Supreme Admin</p>
+</p>
+<p>
+<img src="https://i.imgur.com/yiTeTlg.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/rLdy674.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/hCIAMna.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/wz0rhN5.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> </p>
+</p>
+</p>
+</p>
+</p>
+</p>
+</p>
+<br />
+<br />
+
+
+<p>
+7. Configure Roles</p>
+-  Admin Panel -> Agents -> Roles</p>
+-  Supreme Admin</p>
+</p>
+<p>
+<img src="https://i.imgur.com/yiTeTlg.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/rLdy674.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/hCIAMna.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/wz0rhN5.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> </p>
+</p>
+</p>
+</p>
+</p>
+</p>
+</p>
+<br />
+<br />
+
+
+<p>
+8. Configure Roles</p>
+-  Admin Panel -> Agents -> Roles</p>
+-  Supreme Admin</p>
+</p>
+<p>
+<img src="https://i.imgur.com/yiTeTlg.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/rLdy674.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/hCIAMna.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/wz0rhN5.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> </p>
+</p>
+</p>
+</p>
+</p>
+</p>
+</p>
+<br />
 <br />
