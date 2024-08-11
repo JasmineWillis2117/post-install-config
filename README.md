@@ -73,12 +73,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-3. Configure Roles</p>
--  Admin Panel -> Agents -> Roles</p>
--  Supreme Admin</p>
+3. Configure Teams</p>
+-  Admin Panel -> Agents -> Teams</p>
+-  Level I Support</p>
+-  Level II Support</p>
 </p>
 <p>
-<img src="https://i.imgur.com/yiTeTlg.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/rLdy674.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/hCIAMna.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/wz0rhN5.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> </p>
+<img src="https://i.imgur.com/MhbaAkO.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/0g8iERf.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/m3rp7rN.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p>
 </p>
 </p>
 </p>
@@ -90,12 +91,12 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 
 <p>
-4. Configure Roles</p>
--  Admin Panel -> Agents -> Roles</p>
--  Supreme Admin</p>
+4. Allow anyone to create tickets</p>
+-  Admin Panel -> Settings -> User Settings</p>
+-  Require registration and login to create tickets </p>
 </p>
 <p>
-<img src="https://i.imgur.com/yiTeTlg.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/rLdy674.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/hCIAMna.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/wz0rhN5.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> </p>
+<img src="https://i.imgur.com/i5Q3PzC.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> 
 </p>
 </p>
 </p>
@@ -107,9 +108,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 
 <p>
-5. Configure Roles</p>
--  Admin Panel -> Agents -> Roles</p>
--  Supreme Admin</p>
+5. Configure Agents (Workers)</p>
+-  Jane</p>
+-  John</p>
 </p>
 <p>
 <img src="https://i.imgur.com/yiTeTlg.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/rLdy674.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/hCIAMna.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/wz0rhN5.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> </p>
