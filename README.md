@@ -142,9 +142,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 
 <p>
-7. Configure Roles</p>
--  Admin Panel -> Agents -> Roles</p>
--  Supreme Admin</p>
+7. Configure SLA</p>
+-  Admin Panel -> Manage -> SLA</p>
+-  Sev-A (1 hour, 24/7)</p>
+-  Sev-B (4 hours, 24/7)</p>
+-  Sev-C (8 hours, business hours)</p>
 </p>
 <p>
 <img src="https://i.imgur.com/yiTeTlg.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/rLdy674.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/hCIAMna.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/wz0rhN5.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> </p>
@@ -159,9 +161,12 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 
 <p>
-8. Configure Roles</p>
--  Admin Panel -> Agents -> Roles</p>
--  Supreme Admin</p>
+8. Configure Help Topics</p>
+-  Admin Panel -> Manage -> Help Topics</p>
+-  a. Business Critical Outage</p>
+-  b. Personal Computer Issues</p>
+-  c. Equipment Request</p>
+-  d. Password Reset</p>
 </p>
 <p>
 <img src="https://i.imgur.com/yiTeTlg.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/rLdy674.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/hCIAMna.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/wz0rhN5.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> </p>
