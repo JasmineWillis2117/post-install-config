@@ -149,7 +149,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 -  Sev-C (8 hours, business hours)</p>
 </p>
 <p>
-<img src="https://i.imgur.com/yiTeTlg.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/rLdy674.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/hCIAMna.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/wz0rhN5.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> </p>
+<img src="https://i.imgur.com/y1FVPOE.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/jhAmnZe.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/QHcZ1fk.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/88w2pQb.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> </p> <img src="https://i.imgur.com/s4tP8DO.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/n11hy0Y.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> 
 </p>
 </p>
 </p>
@@ -169,7 +169,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 -  d. Password Reset</p>
 </p>
 <p>
-<img src="https://i.imgur.com/yiTeTlg.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/rLdy674.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/hCIAMna.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/wz0rhN5.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> </p>
+<img src="https://i.imgur.com/6Yo6tie.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/FTFXYhc.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/nTR2v3y.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p>
 </p>
 </p>
 </p>
