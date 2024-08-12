@@ -113,7 +113,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 -  John</p>
 </p>
 <p>
-<img src="https://i.imgur.com/yiTeTlg.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/rLdy674.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/hCIAMna.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/wz0rhN5.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> </p>
+<img src="https://i.imgur.com/HpblyLq.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/jB5THNK.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/4p3aZjk.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/vF1AU0F.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> </p> <img src="https://i.imgur.com/AWlaSi5.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/X96MzNX.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/ZccfnpJ.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p>
 </p>
 </p>
 </p>
@@ -125,12 +125,12 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 
 <p>
-6. Configure Roles</p>
--  Admin Panel -> Agents -> Roles</p>
--  Supreme Admin</p>
+6. Configure Users (Customers)</p>
+-  Karen</p>
+-  Ken</p>
 </p>
 <p>
-<img src="https://i.imgur.com/yiTeTlg.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/rLdy674.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/hCIAMna.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/wz0rhN5.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> </p>
+<img src="https://i.imgur.com/L0bKcfb.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/pDCEVPg.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/Dztk9N9.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/9V0lZy9.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> </p>
 </p>
 </p>
 </p>
